@@ -3,21 +3,447 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Louis Henzi - Memorial Timeline</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Louis Henzi (1934–2026) &mdash; Life, Legacy &amp; Memorial</title>
+
+    <!-- Core SEO -->
+    <meta name="description"
+        content="A memorial tribute to Louis Henzi (March 20, 1934 – June 12, 2026) of Cincinnati, Ohio. Swiss-American chemist, Quality Assurance Lead at Drackett, and devoted family man. Explore his life timeline, legacy, and remembrance.">
+    <meta name="keywords"
+        content="Louis Henzi, Louis Henzi obituary, Louis Henzi Cincinnati, Louis Henzi memorial, Henzi family Cincinnati, Swiss American Cincinnati, Drackett chemist, National Lead Fernald, West Side Cincinnati, Shirley Henzi, Shirley Thrasher Henzi">
+    <meta name="author" content="The Henzi Family">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://louis.henzi.org/">
+
+    <!-- Open Graph (Facebook, iMessage, Discord, etc.) -->
+    <meta property="og:type" content="profile">
+    <meta property="og:title" content="Louis Henzi (1934–2026) — Life, Legacy &amp; Memorial">
+    <meta property="og:description"
+        content="A tribute to Louis Henzi of Cincinnati, Ohio — Swiss-American chemist, devoted husband to Shirley, father of three, and West Side roots. Explore his life in an interactive timeline.">
+    <meta property="og:url" content="https://louis.henzi.org/">
+    <meta property="og:image" content="https://louis.henzi.org/louis.jpg">
+    <meta property="og:image:alt" content="Louis Henzi">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="Louis Henzi Memorial">
+    <meta property="profile:first_name" content="Louis">
+    <meta property="profile:last_name" content="Henzi">
+
+    <!-- Twitter / X Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Louis Henzi (1934–2026) — Life, Legacy &amp; Memorial">
+    <meta name="twitter:description"
+        content="A tribute to Louis Henzi of Cincinnati, Ohio — Swiss-American chemist, devoted husband and father. Explore his life in an interactive timeline.">
+    <meta name="twitter:image" content="https://louis.henzi.org/louis.jpg">
+
+    <!-- Structured Data: Person -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Louis Henzi",
+      "givenName": "Louis",
+      "familyName": "Henzi",
+      "birthDate": "1934-03-20",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Cincinnati, Ohio, USA"
+      },
+      "deathDate": "2026-06-12",
+      "nationality": [
+        { "@type": "Country", "name": "United States" },
+        { "@type": "Country", "name": "Switzerland" }
+      ],
+      "jobTitle": ["Chemist", "Quality Assurance Lead"],
+      "worksFor": [
+        { "@type": "Organization", "name": "Drackett Company" },
+        { "@type": "Organization", "name": "National Lead Company, Fernald Site" }
+      ],
+      "spouse": {
+        "@type": "Person",
+        "name": "Shirley Thrasher Henzi"
+      },
+      "url": "https://louis.henzi.org/",
+      "image": "https://louis.henzi.org/louis.jpg",
+      "description": "Swiss-American chemist and Quality Assurance Lead from Cincinnati, Ohio. Devoted husband to Shirley Thrasher, father of three, and proud West Side Cincinnati family man."
+    }
+    </script>
+
     <link title="timeline-styles" rel="stylesheet"
         href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    <style>
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: -apple-system, 'Segoe UI', system-ui, sans-serif;
+            background: #FAF8F5;
+            color: #2C2826;
+            line-height: 1.7;
+        }
+
+        h1,
+        h2,
+        h3 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: normal;
+        }
+
+        /* ── Hero ── */
+        .hero {
+            background: linear-gradient(175deg, #F2EDE3 0%, #FAF8F5 100%);
+            border-bottom: 1px solid #E3DDD4;
+            padding: 80px 24px 72px;
+            text-align: center;
+        }
+
+        .portrait-wrap {
+            margin: 0 auto 44px;
+            width: 210px;
+            height: 210px;
+            border-radius: 50%;
+            background: #EDE8DF;
+            border: 5px solid #C8BFAF;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            box-shadow: 0 6px 32px rgba(0, 0, 0, 0.10);
+        }
+
+        .portrait-wrap img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .portrait-placeholder {
+            color: #A89E91;
+            font-size: 11px;
+            letter-spacing: 0.14em;
+            text-transform: uppercase;
+            line-height: 1.6;
+            padding: 0 12px;
+            text-align: center;
+        }
+
+        .hero-eyebrow {
+            font-size: 11px;
+            letter-spacing: 0.22em;
+            text-transform: uppercase;
+            color: #A08872;
+            margin-bottom: 18px;
+        }
+
+        .hero h1 {
+            font-size: clamp(2rem, 5vw, 3.4rem);
+            color: #1C1714;
+            line-height: 1.2;
+            margin-bottom: 16px;
+        }
+
+        .hero-dates {
+            font-family: Georgia, serif;
+            font-style: italic;
+            color: #7A6E63;
+            font-size: 1.1rem;
+            letter-spacing: 0.05em;
+            margin-bottom: 36px;
+        }
+
+        .hero-divider {
+            width: 48px;
+            height: 1px;
+            background: #C8BFAF;
+            margin: 0 auto 32px;
+        }
+
+        .hero-bio {
+            max-width: 620px;
+            margin: 0 auto 44px;
+            font-size: 1.06rem;
+            color: #4A4440;
+            line-height: 1.85;
+        }
+
+        .scroll-cta {
+            display: inline-block;
+            font-size: 11px;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: #A08872;
+            text-decoration: none;
+            border-bottom: 1px solid #C8BFAF;
+            padding-bottom: 3px;
+            transition: color 0.2s, border-color 0.2s;
+        }
+
+        .scroll-cta:hover {
+            color: #5E4F42;
+            border-color: #8B7B6A;
+        }
+
+        /* ── At a Glance ── */
+        .glance {
+            background: #FFFFFF;
+            border-bottom: 1px solid #E3DDD4;
+            padding: 64px 24px;
+        }
+
+        .section-label {
+            font-size: 11px;
+            letter-spacing: 0.22em;
+            text-transform: uppercase;
+            color: #A08872;
+            text-align: center;
+            margin-bottom: 48px;
+        }
+
+        .glance-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            max-width: 980px;
+            margin: 0 auto;
+            justify-content: center;
+        }
+
+        .glance-card {
+            flex: 1 1 200px;
+            max-width: 230px;
+            background: #FAF8F5;
+            border: 1px solid #E3DDD4;
+            border-radius: 8px;
+            padding: 32px 24px 28px;
+            text-align: center;
+        }
+
+        .glance-ornament {
+            display: block;
+            color: #C8BFAF;
+            font-size: 1.2rem;
+            margin-bottom: 14px;
+            line-height: 1;
+        }
+
+        .glance-card-label {
+            font-size: 10px;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: #A08872;
+            margin-bottom: 10px;
+        }
+
+        .glance-card-value {
+            font-family: Georgia, serif;
+            font-size: 1rem;
+            color: #1C1714;
+            line-height: 1.6;
+        }
+
+        /* ── Timeline Section ── */
+        .timeline-section {
+            padding: 80px 0 0;
+        }
+
+        .timeline-header {
+            max-width: 1140px;
+            margin: 0 auto;
+            padding: 0 32px;
+        }
+
+        .timeline-section h2 {
+            font-size: 1.9rem;
+            color: #1C1714;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        .timeline-intro {
+            text-align: center;
+            color: #7A6E63;
+            font-style: italic;
+            font-family: Georgia, serif;
+            font-size: 1rem;
+            margin-bottom: 12px;
+        }
+
+        .timeline-divider {
+            width: 48px;
+            height: 1px;
+            background: #C8BFAF;
+            margin: 0 auto 44px;
+        }
+
+        #timeline-embed {
+            width: 100%;
+            height: 750px;
+            border-top: 1px solid #DDD5C8;
+            overflow: hidden;
+            box-shadow: 0 -2px 24px rgba(0, 0, 0, 0.05);
+        }
+
+        /* ── Footer ── */
+        footer {
+            background: #EDE8DF;
+            border-top: 1px solid #DDD5C8;
+            text-align: center;
+            padding: 40px 24px;
+            font-size: 0.85rem;
+            color: #9E8E7A;
+            letter-spacing: 0.04em;
+        }
+
+        footer p+p {
+            margin-top: 6px;
+            font-size: 0.78rem;
+            color: #B8AC9E;
+        }
+
+        /* ── Responsive ── */
+        @media (max-width: 600px) {
+            .glance-card {
+                max-width: 100%;
+            }
+
+            #timeline-embed {
+                height: 520px;
+            }
+
+            .timeline-section {
+                padding: 56px 16px 64px;
+            }
+        }
+    </style>
 </head>
 
 <body>
 
-    <div id='timeline-embed' style="width: 100%; height: 100vh;"></div>
+    <!-- Hero -->
+    <section class="hero">
+        <div class="portrait-wrap">
+
+            <img src="louis.jpg" alt="Louis and Shirley Henzi, Colorized by Reddit for his Birthday">
+
+        </div>
+        <p class="hero-eyebrow">In Loving Memory</p>
+        <h1>The Life &amp; Legacy<br>of Louis Henzi</h1>
+        <p class="hero-dates">March 20, 1934 &ndash; June 12, 2026</p>
+        <div class="hero-divider"></div>
+        <div class="hero">
+            <div
+                style="max-width: 680px; margin: 0 auto; text-align: left; font-size: 1.15rem; line-height: 1.75; color: #333;">
+                <p style="margin-bottom: 1.75rem;">
+                    A devoted husband, father, scientist, and family anchor, <strong>Louis Henzi</strong> spent his life
+                    in
+                    quiet, steadfast service to his family, his craft, and the community around him. Born and raised in
+                    Cincinnati, Ohio, he carried a lifelong pride in his Swiss heritage, his German roots, and his deep
+                    West
+                    Side connections—from his college days at UC to the decades spent building a life with his beloved
+                    Shirley.
+                    His family would joke that they never thought he'd grow up to marry a Jewish girl from Price Hill,
+                    but they
+                    did and made a beautiful family.
+                </p>
+
+                <p style="margin-bottom: 1.75rem;">
+                    As a chemist, Louis brought a sharp, curious mind to everything he touched—a legacy that inspires
+                    his family
+                    to follow in his footsteps. He was a forward-thinking man who early on introduced computers to his
+                    family,
+                    even helping his wife do some of the earliest online genealogy, creating family trees that his
+                    grandkids
+                    still cherish to this day. He was a man who appreciated the comfort of routine, yet could still be
+                    convinced
+                    by those he loved to step outside his comfort zone when it meant being with and supporting family.
+                </p>
+
+                <p style="margin-bottom: 1.75rem;">
+                    Louis was a man of firm principles who walked a distinct line: he was a fierce defender of civil
+                    rights who
+                    stood firmly against bigotry, while remaining a staunch supporter of law enforcement—though he
+                    always
+                    maintained, with characteristic conviction and wit, that they had better have a warrant if they
+                    wanted to
+                    come in the door.
+                </p>
+
+                <p style="margin-bottom: 0;">
+                    Above all, his greatest legacy is the family that looked up to him. Multiple generations patterned
+                    what a
+                    good life should look like after his example. He loved his many grandchildren and
+                    great-grandchildren very
+                    much, and they loved him deeply in return. He leaves behind a beautiful, lasting blueprint of love,
+                    integrity, and enduring warmth.
+                </p>
+            </div>
+        </div>
+        <a href="#timeline" class="scroll-cta">Explore His Timeline &darr;</a>
+    </section>
+
+    <!-- At a Glance -->
+    <section class="glance">
+        <p class="section-label">At a Glance</p>
+        <div class="glance-grid">
+            <div class="glance-card">
+                <span class="glance-ornament">&#10022;</span>
+                <p class="glance-card-label">Born</p>
+                <p class="glance-card-value">March 20, 1934<br>Cincinnati, OH</p>
+            </div>
+            <div class="glance-card">
+                <span class="glance-ornament">&#10022;</span>
+                <p class="glance-card-label">Career</p>
+                <p class="glance-card-value">QA Lead, Drackett Co.<br>Chemist, National Lead<br><span
+                        style="font-size:0.88rem;color:#7A6E63;">Fernald Site</span></p>
+            </div>
+            <div class="glance-card">
+                <span class="glance-ornament">&#10022;</span>
+                <p class="glance-card-label">Married</p>
+                <p class="glance-card-value">Shirley Thrasher<br>May 14, 1956</p>
+            </div>
+            <div class="glance-card">
+                <span class="glance-ornament">&#10022;</span>
+                <p class="glance-card-label">Legacy</p>
+                <p class="glance-card-value">3 Children<br>6 Grandchildren<br><span
+                        style="font-size:0.88rem;color:#7A6E63;">&amp; Many Great-Grandchildren</span></p>
+            </div>
+            <div class="glance-card" style="flex: 1 1 100%; max-width: 100%;">
+                <span class="glance-ornament">&#10022;</span>
+                <p class="glance-card-label">West Side Roots</p>
+                <p class="glance-card-value">Dalbert, Woodruff &amp; Isenogle &mdash; <span
+                        style="font-size:0.92rem;color:#7A6E63;">where services were held for his mother and his wife
+                        Shirley</span></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Timeline -->
+    <section id="timeline" class="timeline-section">
+        <div class="timeline-header">
+            <h2>A Life in Time</h2>
+            <p class="timeline-intro">Navigate the milestones, memories, and moments that shaped his world.</p>
+            <div class="timeline-divider"></div>
+        </div>
+        <div id="timeline-embed"></div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>Remembering Louis Henzi &mdash; Beloved Husband, Father &amp; Grandfather</p>
+        <p>Cincinnati, Ohio &middot; 1934 &ndash; 2026</p>
+    </footer>
 
     <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
-
     <script type="text/javascript">
-        // 4. Point it directly to your "Live Timeline" spreadsheet URL
         var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRaedjQigM9N4NU_disbqY0EttiGWCP8SXagsU9fp9UolCIDCPvKiAw3BWTuarVdp69eNABESDjDNss/pubhtml?gid=401812079&single=true';
-        // or try https://docs.google.com/spreadsheets/d/e/2PACX-1vRaedjQigM9N4NU_disbqY0EttiGWCP8SXagsU9fp9UolCIDCPvKiAw3BWTuarVdp69eNABESDjDNss/pubhtml?gid=401812079&single=true
         window.timeline = new TL.Timeline('timeline-embed', public_spreadsheet_url, {
             initial_zoom: 2,
             theme: "default"
