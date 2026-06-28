@@ -1,0 +1,686 @@
+{
+  "events": [
+    {
+      "start_date": {
+        "year": "1871",
+        "month": "5",
+        "day": "25"
+      },
+      "text": {
+        "headline": "Birth of Frederich Wilhelm Henzi",
+        "text": "Frederich Wilhelm Henzi is born in Germany to Swiss immigrants Lewis Haenzi (Henze) and Elizabeth Shaller, marking a multi-country journey for the family line before immigrating to America."
+      },
+      "display_date": "May 25, 1871",
+      "media": {
+        "url": "data/images/view_aa05e80e.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1897"
+      },
+      "text": {
+        "headline": "Birth of Louis Ludwig Henzi (Louis Sr.)",
+        "text": "Louis Ludwig Henzi is born to parents Frederich Wilhelm Henzi and Louise Greider, establishing the generation that would later move the family to the Bridgetown neighborhood."
+      },
+      "display_date": "1897",
+      "media": {
+        "url": "data/images/view_aa05e80e.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1928",
+        "month": "4",
+        "day": "10"
+      },
+      "text": {
+        "headline": "Passing of Frederich Wilhelm Henzi",
+        "text": "Frederich Wilhelm Henzi, grandfather to Grandpa Louis, passes away at age 56. A resident of 2518 Liddell Street in Cincinnati and a foreman by trade, he is laid to rest at Spring Grove Cemetery."
+      },
+      "display_date": "April 10, 1928",
+      "media": {
+        "url": "data/images/view_aa05e80e.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1934",
+        "month": "3",
+        "day": "20"
+      },
+      "text": {
+        "headline": "The Journey Begins",
+        "text": "Louis H. Henzi is born in Cincinnati, Ohio, to parents Louis Ludwig Henzi and Helen Emma Kessler. He grows up in the historic Camp Washington neighborhood."
+      },
+      "display_date": "March 20, 1934",
+      "media": {
+        "url": "data/images/view_a12876fc.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1937",
+        "month": "1",
+        "day": "26"
+      },
+      "text": {
+        "headline": "Surviving the Great 1937 Flood",
+        "text": "Louis was just a toddler when the historic 1937 Ohio River flood devastated Cincinnati. Living in Camp Washington, the Henzi family was right in the thick of it as Mill Creek backed up, turning the valley into a lake. <br><br><strong>Family:</strong> Who remembers the stories of how they evacuated, or how the house fared? Let's fill in the blanks here!"
+      },
+      "display_date": "January 1937",
+      "media": {
+        "url": "data/images/flood_992897fe.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1937",
+        "month": "11"
+      },
+      "text": {
+        "headline": "The Trial of \"Arsenic Anna\"",
+        "text": "The neighborhood was gripped by the trial of Anna Marie Hahn, a German immigrant convicted of poisoning elderly men in Cincinnati's German community. Arrested the same year as the great flood, \"Arsenic Anna\" became a national sensation and the first woman executed in Ohio's electric chair. <br><br><strong>Family:</strong> Did the family ever talk about the neighborhood panic during her trial?"
+      },
+      "display_date": "November 1937",
+      "media": {
+        "url": "data/images/Anna_Marie_Hahn_f874209a.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1940",
+        "month": "4",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Growing Up in Cincinnati",
+        "text": "By age 6, Louis is recorded living with his family in Cincinnati during the 1940 U.S. Census, witnessing a bustling mid-century American city."
+      },
+      "display_date": "Circa 1940"
+    },
+    {
+      "start_date": {
+        "year": "1940",
+        "month": "9",
+        "day": "22"
+      },
+      "text": {
+        "headline": "The Move to Bridgetown",
+        "text": "Grandpa's father, Louis Sr., purchases a brand-new, six-room brick and frame bungalow on Race Road. This milestone firmly rooted the family in the area, establishing the home on the West Side that Grandpa would always fondly remember and tell stories about: \"I used to live there.\""
+      },
+      "display_date": "September 22, 1940",
+      "media": {
+        "url": "data/images/view_c0881e25.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1942",
+        "month": "9",
+        "day": "24"
+      },
+      "text": {
+        "headline": "Drama at Race Road",
+        "text": "An overheated furnace causes a significant fire at the Henzi family home at 3922 Race Road in Bridgetown. Cheviot Fire Department Chief R. B. Mills estimated the damage at $1,500—a dramatic event that 8-year-old Louis surely never forgot."
+      },
+      "display_date": "September 24, 1942",
+      "media": {
+        "url": "data/images/view_8b17f7a8.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1943",
+        "month": "12"
+      },
+      "text": {
+        "headline": "The Invention of Benadryl",
+        "text": "Medical history was made at the University of Cincinnati when researcher George Rieveschl successfully developed the world's first effective antihistamine. This incredible scientific breakthrough completely revolutionized the treatment of allergies worldwide and was later marketed globally as Benadryl."
+      },
+      "display_date": "December 1943"
+    },
+    {
+      "start_date": {
+        "year": "1945",
+        "month": "5",
+        "day": "8"
+      },
+      "text": {
+        "headline": "The World at a Crossroads",
+        "text": "World War II ends in Europe. This global turning point shaped the world that Grandpa Louis grew up in and built his life around."
+      },
+      "display_date": "May 8, 1945"
+    },
+    {
+      "start_date": {
+        "year": "1950",
+        "month": "4",
+        "day": "10"
+      },
+      "text": {
+        "headline": "A Teenager in Green Township",
+        "text": "At 16 years old, the 1950 U.S. Census captures Louis living with his family in Green Township, Ohio, during the dawn of the fifties era."
+      },
+      "display_date": "April 10, 1950"
+    },
+    {
+      "start_date": {
+        "year": "1951",
+        "month": "5"
+      },
+      "text": {
+        "headline": "Ground Broken on the \"Atomic Plant\" at Fernald",
+        "text": "The U.S. Atomic Energy Commission broke ground on the Feed Materials Production Center in a rural area northwest of Cincinnati. Managed by the National Lead Company of Ohio (NLO), the massive, top-secret industrial complex was built to process high-purity uranium metal for the nation's defense programs."
+      },
+      "display_date": "May 1951"
+    },
+    {
+      "start_date": {
+        "year": "1952",
+        "month": "1",
+        "day": "22"
+      },
+      "text": {
+        "headline": "Order of DeMolay Officer",
+        "text": "A young Louis is installed as the Senior Steward of the Western Hills Chapter, Order of DeMolay. The installation ceremony is held on a Friday evening at the Immanuel Evangelical Reformed Church at Queen City and Lawnway Avenues."
+      },
+      "display_date": "January, 1952",
+      "media": {
+        "url": "data/images/view_fdb7574d.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1952",
+        "month": "3"
+      },
+      "text": {
+        "headline": "The Invention of the Heart-Lung Machine",
+        "text": "Medical history was made right in Cincinnati when researchers at Cincinnati Children's Hospital successfully developed and used the first heart-lung machine. The incredible breakthrough allowed doctors to perform the world's first open-heart surgeries, saving countless lives."
+      },
+      "display_date": "March 1952"
+    },
+    {
+      "start_date": {
+        "year": "1952",
+        "month": "10"
+      },
+      "text": {
+        "headline": "Uranium Processing Begins at Fernald",
+        "text": "The National Lead Company of Ohio officially began uranium production operations at the Fernald site. The facility purified uranium ore and manufactured metallic fuel elements to \"feed\" nuclear reactors across the country, disguised locally behind a checkerboard water tower that many confused for a standard feed mill."
+      },
+      "display_date": "October 1952"
+    },
+    {
+      "start_date": {
+        "year": "1958",
+        "month": "3",
+        "day": "14"
+      },
+      "text": {
+        "headline": "A Lifelong Partnership",
+        "text": "Louis marries his beloved wife, Shirley M. Thrasher. Together, they would go on to build a beautiful family and share a lifetime of memories."
+      },
+      "display_date": "May 14th",
+      "media": {
+        "url": "data/images/louis_c498db22.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1958",
+        "month": "8",
+        "day": "16"
+      },
+      "text": {
+        "headline": "Welcoming Louis Jr.",
+        "text": "Louis and Shirley celebrate the birth of their son, Louis Jr. At the time of his arrival, the growing family is living at 3129 Boudinot Avenue on Cincinnati's West Side."
+      },
+      "display_date": "August 1958",
+      "media": {
+        "url": "data/images/view_af78b1b0.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1960",
+        "month": "3",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Loss of a Father",
+        "text": "Louis faces a profound family milestone at age 26 with the passing of his father, Louis Ludwig Henzi, in Cincinnati."
+      },
+      "display_date": "March 15, 1960"
+    },
+    {
+      "start_date": {
+        "year": "1960",
+        "month": "4",
+        "day": "24"
+      },
+      "text": {
+        "headline": "Sabin Sunday and the Polio Sugar Cubes",
+        "text": "Cincinnati became the epicenter of global health history during \"Sabin Sunday,\" when thousands of local residents lined up at schools and clinics to receive Dr. Albert Sabin's newly developed oral polio vaccine on sugar cubes. Developed right at Cincinnati Children's Hospital, this painless vaccine replaced injections and went on to virtually eliminate polio across the globe."
+      },
+      "display_date": "April 1960"
+    },
+    {
+      "start_date": {
+        "year": "1960",
+        "month": "6"
+      },
+      "text": {
+        "headline": "The Peak of Cold War Uranium Production",
+        "text": "Driven by heightening Cold War tensions, operations at Fernald hit their absolute historical peak. The facility reached an annual production rate of over 10,000 metric tons of refined uranium metal products, employing thousands of local workers and researchers across nine specialized plants on the site."
+      },
+      "display_date": "June 1960"
+    },
+    {
+      "start_date": {
+        "year": "1961",
+        "month": "10"
+      },
+      "text": {
+        "headline": "America's First Medical Laser Lab Opens",
+        "text": "Cincinnati pioneered a brand-new frontier in technology and surgery when Dr. Leon Goldman opened the country's very first medical laser laboratory at the University of Cincinnati. Known as the \"father of laser medicine,\" Goldman's groundbreaking work laid the foundation for modern laser surgeries and advanced medical treatments used worldwide today."
+      },
+      "display_date": "October 1961"
+    },
+    {
+      "start_date": {
+        "year": "1963",
+        "month": "9",
+        "day": "20"
+      },
+      "text": {
+        "headline": "Rachel Born",
+        "text": "Louis and Shirley celebrate the birth of their daughter, Rachel Henzi, born in Cincinnati, Ohio."
+      },
+      "display_date": "September 1963"
+    },
+    {
+      "start_date": {
+        "year": "1966"
+      },
+      "text": {
+        "headline": "Beginning a Career at the Drackett Company",
+        "text": "Louis begins his long, distinguished career as a chemist for Cincinnati’s iconic Drackett Company (the creators of household staples like Windex and Drano). This marked the start of nearly three decades of dedicated scientific work in the city, balancing commercial innovation with impactful consulting efforts."
+      },
+      "display_date": "Circa 1966"
+    },
+    {
+      "start_date": {
+        "year": "1967",
+        "month": "11"
+      },
+      "text": {
+        "headline": "Passing of Uncle Harry Kessler",
+        "text": "Harry J. Kessler, a 42-year Kroger Co. truck driver and brother to Mrs. Helen Henzi (Grandpa's mother), passes away after a sudden heart attack in Groesbeck. He is laid to rest at Spring Grove Cemetery."
+      },
+      "display_date": "November 1967",
+      "media": {
+        "url": "data/images/view_34193669.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1968",
+        "month": "4",
+        "day": "8"
+      },
+      "text": {
+        "headline": "The 1968 Cincinnati Riots",
+        "text": "Following the assassination of Martin Luther King Jr., civil unrest erupted across Cincinnati, heavily affecting neighborhoods like Avondale and Northside. The city was placed under a curfew, and the National Guard was called in to restore order."
+      },
+      "display_date": "April 1968"
+    },
+    {
+      "start_date": {
+        "year": "1969",
+        "month": "7",
+        "day": "20"
+      },
+      "text": {
+        "headline": "A Giant Leap for Mankind",
+        "text": "Apollo 11 lands on the moon. Sadly the family couldn't watch this historic event - a neighbor hit the utility pole, knocking out the power."
+      },
+      "display_date": "July 20, 1969"
+    },
+    {
+      "start_date": {
+        "year": "1974",
+        "month": "4",
+        "day": "3"
+      },
+      "text": {
+        "headline": "The Sayler Park Tornado Outbreak",
+        "text": "Greater Cincinnati is struck by a historic wave of severe weather during the 1974 Super Outbreak. The West Side takes a direct hit as a massive F5 tornado tears through nearby Sayler Park, leaving an indelible mark on the memory of everyone living in the western hills."
+      },
+      "display_date": "April 3, 1974"
+    },
+    {
+      "start_date": {
+        "year": "1975",
+        "month": "10",
+        "day": "22"
+      },
+      "text": {
+        "headline": "The Glory Days of the Big Red Machine",
+        "text": "The spirit of Cincinnati hits an all-time high as the legendary \"Big Red Machine\" beats the Boston Red Sox to bring home the World Series Championship. The entire city, from downtown to the West Side, unites in celebration during baseball's golden era."
+      },
+      "display_date": "October 1975"
+    },
+    {
+      "start_date": {
+        "year": "1976",
+        "month": "7",
+        "day": "4"
+      },
+      "text": {
+        "headline": "The Bicentennial Summer",
+        "text": "The United States celebrates its 200th birthday. A vibrant era of community parades, fireworks, and family gatherings that marked the mid-1970s."
+      },
+      "display_date": "July 4, 1976"
+    },
+    {
+      "start_date": {
+        "year": "1978"
+      },
+      "text": {
+        "headline": "The Carpet and the Computer",
+        "text": "Louis and Shirley get new carpet for the house, a purchase that unexpectedly brings home a TI-99/4A home computer. This milestone introduces a passion for technology into the household, inspiring multiple generations of the family to come."
+      },
+      "display_date": "1978"
+    },
+    {
+      "start_date": {
+        "year": "1978",
+        "month": "1",
+        "day": "26"
+      },
+      "text": {
+        "headline": "The Great Blizzard of 1978",
+        "text": "Cincinnati is completely paralyzed by the \"White Hurricane,\" the worst blizzard in Ohio history. With winds screaming over 50 mph and record-low barometric pressure, the city shuts down for days as local families hunker down at home to stay warm during the historic freeze."
+      },
+      "display_date": "January 1978"
+    },
+    {
+      "start_date": {
+        "year": "1979",
+        "month": "5",
+        "day": "5"
+      },
+      "text": {
+        "headline": "The Loss of Officer Melvin Henze",
+        "text": "The entire city and law enforcement community were devastated when Cincinnati Police Officer Melvin \"Mel\" Henze was tragically shot and killed in the line of duty at age 28. A proud Vietnam veteran, his sacrifice deeply moved the community and led to significant department changes, including the introduction of protective bulletproof vests for local officers."
+      },
+      "display_date": "May 1979"
+    },
+    {
+      "start_date": {
+        "year": "1980"
+      },
+      "text": {
+        "headline": "Welcoming the Baer, Antunes & Henzi Grandkids",
+        "text": "The 1980s marked a joyful era of expansion for Grandpa Louis and Grandma Shirley as they welcomed their grandchildren from the Baer, Antunes, and Henzi branches of the family, filling the household with a brand-new generation of laughter and energy."
+      },
+      "display_date": "The 1980s"
+    },
+    {
+      "start_date": {
+        "year": "1981",
+        "month": "1",
+        "day": "22"
+      },
+      "text": {
+        "headline": "Passing of Great-Grandmother Helen Henzi",
+        "text": "Helen Emma Henzi (nee Kessler), mother to Louis H. Henzi, passes away peacefully at age 83. The beloved matriarch leaves behind a deep West Side legacy including 4 children, 14 grandchildren, and 22 great-grandchildren, with services held at Dalbert & Woodruff Funeral Home on Boudinot. This is where his wife, his grandson, and Louis too would be buried in 2026. Louis told Joe, his grandson once that upon his mother's death his sister wailed \"I'm an orphan now!\". While it made him laugh, he never got over how silly that was to think - she was an adult."
+      },
+      "display_date": "January 22, 1981",
+      "media": {
+        "url": "data/images/view_051a23ad.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1983",
+        "month": "12",
+        "day": "12"
+      },
+      "text": {
+        "headline": "A Fender Bender on Record",
+        "text": "A local legal notice records a civil court filing (Case No. A8309921) regarding a vehicle accident involving Louis H. Henzi and Marcia Alexander—a minor real-life headache officially captured in the local archives."
+      },
+      "display_date": "December 12, 1983"
+    },
+    {
+      "start_date": {
+        "year": "1989",
+        "month": "11",
+        "day": "9"
+      },
+      "text": {
+        "headline": "The Fall of the Wall",
+        "text": "The Berlin Wall comes down, signaling the approaching end of the Cold War—a historic shift that redefined the closing decades of the 20th century."
+      },
+      "display_date": "Nov 9, 1989"
+    },
+    {
+      "start_date": {
+        "year": "1989",
+        "month": "7"
+      },
+      "text": {
+        "headline": "Fernald Permanently Closes for Cleanup",
+        "text": "The Department of Energy officially cancelled the uranium production mission at Fernald, shifting the entire facility's focus exclusively to environmental cleanup. The EPA designated the massive 1,050-acre complex as a federal Superfund site, launching a multi-billion dollar decommissioning and decontamination effort to safely dismantle the nine specialized processing plants."
+      },
+      "display_date": "July 1989"
+    },
+    {
+      "start_date": {
+        "year": "1990"
+      },
+      "text": {
+        "headline": "The Henzi Granddaughters Arrive",
+        "text": "The family circle continued to grow into the 1990s with the arrival of the Henzi granddaughters. This group of cousins would grow up together through the turn of the millennium."
+      },
+      "display_date": "The 1990s"
+    },
+    {
+      "start_date": {
+        "year": "1991",
+        "month": "4",
+        "day": "21"
+      },
+      "text": {
+        "headline": "Passing of Aunt Louise Bertram",
+        "text": "Louise M. Bertram (nee Henzi), older sister to Louis H. Henzi, passes away at age 72. A devoted mother and grandmother, her family honors her life with services at Dalbert & Woodruff and a Mass of Christian Burial at Our Lady of Visitation Church."
+      },
+      "display_date": "April 21, 1991",
+      "media": {
+        "url": "data/images/view_ce8caf33.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1996",
+        "month": "12",
+        "day": "31"
+      },
+      "text": {
+        "headline": "Three Decades of Science",
+        "text": "After nearly 30 years of dedicated work as a chemist, Louis retires from the Drackett Company and his impactful work keeping America safe at the Fernald Site."
+      },
+      "display_date": "Circa 1996"
+    },
+    {
+      "start_date": {
+        "year": "1997"
+      },
+      "text": {
+        "headline": "Adventures, Fishing, and History",
+        "text": "With nearly three decades of chemistry work behind him, Louis embraced the freedom of retirement. This era opened up a wonderful chapter of travel alongside his wife, kids, and grandkids. Whether he was casting a line at a favorite fishing spot, exploring historic landmarks, or taking scenic road trips, he cherished the opportunity to explore the country and make lasting memories with the people he loved most."
+      },
+      "display_date": "The Retirement Years"
+    },
+    {
+      "start_date": {
+        "year": "2000",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Welcoming a New Millennium",
+        "text": "The world celebrates the turn of the century. Passing into the 2000s marked a major milestone for Louis's generation, witnessing the dawn of the digital age."
+      },
+      "display_date": "Jan 1, 2000"
+    },
+    {
+      "start_date": {
+        "year": "2002",
+        "month": "11",
+        "day": "20"
+      },
+      "text": {
+        "headline": "Passing of Grandma Shirley Henzi",
+        "text": "Shirley M. Henzi (nee Thrasher), beloved wife of Louis H. Henzi, Sr., passes away on a Wednesday. She leaves behind a beautiful, lasting legacy through her three children—Deborah, Rachel, and Louis—and eight grandchildren. Her memory is honored with services at Dalbert, Woodruff & Isenogle Funeral Home. <a href=\"https://www.dwifuneralhome.com/obituaries/shirley-henzi\" target=\"_blank\">View Online Memorial</a>"
+      },
+      "display_date": "November 20, 2002"
+    },
+    {
+      "start_date": {
+        "year": "2006",
+        "month": "10"
+      },
+      "text": {
+        "headline": "The Completion of the $4.4 Billion Cleanup",
+        "text": "Decades of intense hazardous cleanup concluded as the last of the contaminated production structures were safely demolished and hauled away, completing a historic $4.4 billion remediation project. The former top-secret nuclear site was successfully transformed into the Fernald Preserve—a publicly accessible, 1,050-acre nature park and wildlife sanctuary."
+      },
+      "display_date": "October 2006"
+    },
+    {
+      "start_date": {
+        "year": "2009",
+        "month": "1"
+      },
+      "text": {
+        "headline": "Welcoming Ethan: The First Great-Grandson",
+        "text": "The family welcomes Ethan Henzi into the world. In a special family milestone, Grandpa Louis meets his very first great-grandson (son of his grandson, Joe), marking the proud beginning of a brand-new generation."
+      },
+      "display_date": "January 2009",
+      "media": {
+        "url": "data/images/view_d3895f21.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2011",
+        "month": "6",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Loss of His Sister, Gladys",
+        "text": "His sister, Gladys Viola Henzi, passes away at the age of 77 in Ohio, marking the loss of another close sibling."
+      },
+      "display_date": "June 15, 2011"
+    },
+    {
+      "start_date": {
+        "year": "2011",
+        "month": "7",
+        "day": "1"
+      },
+      "text": {
+        "headline": "A Night at the Serpentine Wall",
+        "text": "The family convinces Grandpa to leave his comfort zone at night, taking him down to the riverfront alongside his grandson Ethan to visit the Serpentine Wall during the vibrant Fourth of July celebrations."
+      },
+      "display_date": "July 1, 2011",
+      "media": {
+        "url": "data/images/view_3caf0fd6.jpg"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2012",
+        "month": "3"
+      },
+      "text": {
+        "headline": "Welcoming Mila: The First Great-Granddaughter",
+        "text": "The family celebrates the arrival of Mila, Sadie's daughter. Grandpa Louis proudly welcomes his very first great-granddaughter into the world, adding a beautiful new chapter to the family legacy."
+      },
+      "display_date": "March 2012"
+    },
+    {
+      "start_date": {
+        "year": "2015"
+      },
+      "text": {
+        "headline": "A Growing Great-Grandchild Legacy",
+        "text": "The legacy that Grandpa Louis and Grandma Shirley built continued to blossom rapidly through the 2010s and into the 2020s, welcoming a beautiful boom of great-grandchildren who brought immense joy and smiles to Grandpa's later years."
+      },
+      "display_date": "2010s & 2020s"
+    },
+    {
+      "start_date": {
+        "year": "2024",
+        "month": "3",
+        "day": "20"
+      },
+      "text": {
+        "headline": "90th Birthday",
+        "text": "Louis celebrates his 90th birthday surrounded by family at his son Louis's home, many including Nancy are in attendence and there isn't a moment he's not smiling."
+      },
+      "display_date": "March, 2024"
+    },
+    {
+      "start_date": {
+        "year": "2026",
+        "month": "6",
+        "day": "12"
+      },
+      "text": {
+        "headline": "An Enduring Legacy",
+        "text": "Grandpa Louis passes away peacefully at age 92 in Dillsboro, Indiana, leaving behind a rich family history and generations who cherish his memory."
+      },
+      "display_date": "June 12, 2026"
+    },
+    {
+      "start_date": {
+        "year": "1985",
+        "month": "9",
+        "day": "11"
+      },
+      "text": {
+        "headline": "Pete Rose Breaks the All-Time Hit Record",
+        "text": "The eyes of the sports world were glued to Cincinnati's Riverfront Stadium as player-manager Pete Rose singled to left field off San Diego's Eric Show, scoring his 4,192nd career hit. The legendary moment officially broke Ty Cobb's 57-year-old Major League Baseball record and triggered an emotional, nine-minute standing ovation from the hometown crowd."
+      },
+      "display_date": "September 11, 1985"
+    },
+    {
+      "start_date": {
+        "year": "1989",
+        "month": "8",
+        "day": "24"
+      },
+      "text": {
+        "headline": "Pete Rose is Banned from Baseball",
+        "text": "In a heartbreaking turn of events for Cincinnati fans, Major League Baseball Commissioner A. Bartlett Giamatti announced that hometown hero Pete Rose would be placed on the permanently ineligible list following an investigation into sports gambling. The lifetime ban shook the city's sports identity and sparked a decades-long debate across the nation."
+      },
+      "display_date": "August 24, 1989"
+    },
+    {
+      "start_date": {
+        "year": "2001",
+        "month": "4",
+        "day": "9"
+      },
+      "text": {
+        "headline": "The 2001 Cincinnati Riots",
+        "text": "Days of intense civil unrest erupted in Cincinnati following the fatal police shooting of Timothy Thomas, an unarmed 19-year-old, in Over-the-Rhine. The city was placed under an emergency citywide curfew for several nights to restore order, marking a turbulent chapter in local history that ultimately sparked major reforms in police-community relations and urban redevelopment."
+      },
+      "display_date": "April 2001"
+    }
+  ]
+}
