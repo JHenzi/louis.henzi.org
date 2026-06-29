@@ -386,13 +386,13 @@
     },
     {
       "start_date": {
-        "year": "1978"
+        "year": "1982"
       },
       "text": {
         "headline": "The Carpet and the Computer",
         "text": "Louis and Shirley get new carpet for the house, a purchase that unexpectedly brings home a TI-99/4A home computer. This milestone introduces a passion for technology into the household, inspiring multiple generations of the family to come."
       },
-      "display_date": "1978"
+      "display_date": "1982"
     },
     {
       "start_date": {
@@ -681,6 +681,17 @@
         "text": "Days of intense civil unrest erupted in Cincinnati following the fatal police shooting of Timothy Thomas, an unarmed 19-year-old, in Over-the-Rhine. The city was placed under an emergency citywide curfew for several nights to restore order, marking a turbulent chapter in local history that ultimately sparked major reforms in police-community relations and urban redevelopment."
       },
       "display_date": "April 2001"
+    },
+    {
+      "start_date": {
+        "year": "1956",
+        "month": "5"
+      },
+      "text": {
+        "headline": "Deborah Born",
+        "text": "Louis and Shirley welcome their first born into the world, Deborah or Debbie."
+      },
+      "display_date": "May 1956"
     }
   ]
 }
